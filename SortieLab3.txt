@@ -1,0 +1,28 @@
+*************************
+ USB Experiment Program:
+*************************
+
+[1]
+   iManufacturer = 1
+   string = motorola
+   iProduct = 2
+   string = XT1563
+   iSerialNumber = 3
+   string = ZY222V8J3D
+   bDescriptorType = 1
+   string = motorola
+   bDeviceClass = 0
+   bDeviceProtocol = 0
+   bDeviceSubClass = 0
+   idProduct = 11894
+   idVendor = 8888
+   bcdDevice = 65535
+   bcdUSB = 512
+   bNumConfigurations = 1
+   string = motorola
+   bMaxPacketSize0 = 64
+   bLength = 18
+
+*************************
+        Done
+*************************
